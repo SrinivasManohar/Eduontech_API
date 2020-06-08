@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "app_function": "application.app",
+        "aws_region": "us-east-2",
+        "profile_name": "default",
+        "project_name": "eduontech-api",
+        "runtime": "python3.7",
+        "s3_bucket": "zappa-b2mlga9d1"
+    }
+}
